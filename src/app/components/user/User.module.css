@@ -1,0 +1,17 @@
+.user {
+    width: 22vw;
+    height: 28vh;
+    font-size: 17px;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    background-color:white;
+    border: white 1px solid;
+    border-radius: 5px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
+}
+.user>a{
+    color: #4081f4;
+}
